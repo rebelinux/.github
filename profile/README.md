@@ -41,3 +41,12 @@ As Built Report provides the following features;
 | Reports Module | Styles Script (.ps1) |
 | The report module is specific to each vendor and/or technology and is used to extract information from the specific environment. The report module will be written to utilise PowerShell modules or RESTful APIs which the vendor/technology provides. | The styles script sets the default layout, fonts, colours and sizes used within the report. Style scripts can be used to layout cover pages, table of contents and other unique tables or sections. |
 
+
+<h3 style="font-size:2vw" align="center"><b>Current Reports</b></h3>
+<!--
+<p align="center">
+    <a><img src="https://img.shields.io/github/contributors/AsBuiltReport/AsBuiltReport.Veeam.VBR.svg" /></a>
+    <a><img src="https://img.shields.io/github/contributors/AsBuiltReport/AsBuiltReport.Veeam.VBR.svg" /></a>
+    <a><img src="https://img.shields.io/github/contributors/AsBuiltReport/AsBuiltReport.Veeam.VBR.svg" /></a>
+</p>
+-->
