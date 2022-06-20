@@ -43,10 +43,13 @@ As Built Report provides the following features;
 
 
 <h3 style="font-size:2vw" align="center"><b>Current Reports</b></h3>
-<!--
+
+
 <p align="center">
-    <a><img src="https://img.shields.io/github/contributors/AsBuiltReport/AsBuiltReport.Veeam.VBR.svg" /></a>
-    <a><img src="https://img.shields.io/github/contributors/AsBuiltReport/AsBuiltReport.Veeam.VBR.svg" /></a>
-    <a><img src="https://img.shields.io/github/contributors/AsBuiltReport/AsBuiltReport.Veeam.VBR.svg" /></a>
+    <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/VMware_vSphere.png" /></a>
+    <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/VMware_SRM.png" /></a>
+    <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Nutanix.png" /></a>
+    <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Microsoft.png" /></a>
+    <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Rubrik.png" /></a>
+    <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/VxRail.jpg" /></a>
 </p>
--->
