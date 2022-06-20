@@ -50,6 +50,7 @@ As Built Report provides the following features;
     <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/VMware_SRM.png" /></a>
     <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Nutanix.png" /></a>
     <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Microsoft.png" /></a>
+    <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Veeam.png" /></a>
     <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Rubrik.png" /></a>
     <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/VxRail.jpg" /></a>
 </p>
