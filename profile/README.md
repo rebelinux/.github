@@ -12,6 +12,13 @@ As Built Report is an open source configuration document framework which utilise
 
 <h3 style="font-size:2vw" align="center"><b>Features</b></h3>
 
+||||
+|-----------------------|-----------------------|-----------------------|
+| :memo: Multiple Document Formats | :microscope: Granular Detail Level | :art: Customised Styling |
+| Generate and output reports in one or more document formats, including DOCX, HTML, and Text. | Configure the detail level for each section of a report. You have the choice of producing a summarised report, a fully comprehensive report or something in between. | Use a default style or create your own to match your corporate identity. Set page orientation, text and table formatting with fonts, colours, borders and highlighted cells and rows. |
+| :package: Modular Design | :hearts: Health Checks | :mailbox_with_mail: Email Reports |
+| Install and update the entire report library or each report individually, via the PowerShell Gallery. | Enable health checks to highlight configuration issues within a report. Toggle individual health checks on or off as required. | Attach and send reports via email to one or more recipients. |
+
 As Built Report provides the following features;
 
 * Modular design enables contributors a simple way to develop new reports.
@@ -22,15 +29,6 @@ As Built Report provides the following features;
 * Enable health checks to highlight configuration issues within a report. Toggle individual health checks on or off as required.
 * Append the time and date to reports to maintain records.
 * Attach and send reports via email to one or more recipients.
-
-
-||||
-|-----------------------|-----------------------|-----------------------|
-| :memo: Multiple Document Formats | :microscope: Granular Detail Level | :art: Customised Styling |
-| Generate and output reports in one or more document formats, including DOCX, HTML, and Text. | Configure the detail level for each section of a report. You have the choice of producing a summarised report, a fully comprehensive report or something in between. | Use a default style or create your own to match your corporate identity. Set page orientation, text and table formatting with fonts, colours, borders and highlighted cells and rows. |
-| :package: Modular Design | :hearts: Health Checks | :mailbox_with_mail: Email Reports |
-| Install and update the entire report library or each report individually, via the PowerShell Gallery. | Enable health checks to highlight configuration issues within a report. Toggle individual health checks on or off as required. | Attach and send reports via email to one or more recipients. |
-
 
 <h3 style="font-size:2vw" align="center"><b>Components</b></h3>
 
