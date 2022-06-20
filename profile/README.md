@@ -7,9 +7,22 @@
 
 <h2 style="font-size:3vw" align="center"><b>Document Your Datacenter With PowerShell</b></h2>
 
-As Built Report is a configuration document framework which utilises PowerShell to produce as-built documentation in multiple document formats for multiple vendors and technologies.
+As Built Report is an open source configuration document framework which utilises Microsoft PowerShell to produce as-built documentation in multiple document formats for multiple vendors and technologies. The framework allows users to easily generate clear and consistent documentation, for any environment which supports Microsoft PowerShell and/or a RESTful API.
+
 
 <h3 style="font-size:2vw" align="center"><b>Features</b></h3>
+
+As Built Report provides the following features;
+
+* Modular design enables contributors a simple way to develop new reports.
+* Install and update the entire report library or each report individually, via the PowerShell Gallery.
+* Generate and output reports in one or more document formats, including DOCX, HTML, and Text.
+* Configure the detail level for each section of a report. You have the choice of producing a summarised report, a fully comprehensive report or something in between.
+* Support for custom styling. Set page orientation, text and table formatting with fonts, colours, borders and highlighted cells and rows.
+* Enable health checks to highlight configuration issues within a report. Toggle individual health checks on or off as required.
+* Append the time and date to reports to maintain records.
+* Attach and send reports via email to one or more recipients.
+
 
 ||||
 |-----------------------|-----------------------|-----------------------|
@@ -17,13 +30,16 @@ As Built Report is a configuration document framework which utilises PowerShell 
 | Generate and output reports in one or more document formats, including DOCX, HTML, and Text. | Configure the detail level for each section of a report. You have the choice of producing a summarised report, a fully comprehensive report or something in between. | Use a default style or create your own to match your corporate identity. Set page orientation, text and table formatting with fonts, colours, borders and highlighted cells and rows. |
 | :package: Modular Design | :hearts: Health Checks | :mailbox_with_mail: Email Reports |
 | Install and update the entire report library or each report individually, via the PowerShell Gallery. | Enable health checks to highlight configuration issues within a report. Toggle individual health checks on or off as required. | Attach and send reports via email to one or more recipients. |
-<!--
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h3 style="font-size:2vw" align="center"><b>Components</b></h3>
+
+
+
+|||
+|-----------------------|-----------------------|
+| As Built Report Configuration | Reports Configuration |
+| A JSON configuration file used to store information relating to author’s name, company information & SMTP mail server configuration. Individual configuration files can be saved and specified also. | The report configuration is a JSON file which stores information specific to the related report. It holds information such as the report name, version, and release status. The report configuration can also provide functionality such as configurable report options, health checks and granular information levels. |
+| Reports Module | Styles Script (.ps1) |
+| The report module is specific to each vendor and/or technology and is used to extract information from the specific environment. The report module will be written to utilise PowerShell modules or RESTful APIs which the vendor/technology provides. | The styles script sets the default layout, fonts, colours and sizes used within the report. Style scripts can be used to layout cover pages, table of contents and other unique tables or sections. |
+
