@@ -14,6 +14,11 @@
     <a href="https://code.vmware.com/join" alt="VMware {code} Slack"></a>
         <img src="https://img.shields.io/badge/VMware{code}-AsBuiltReport-green.svg?logo=slack" /></a>
 </p>
+
+<p align="center">
+    <a href='https://ko-fi.com/B0B7DDGZ7' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</p>
+
 <h2 style="font-size:3vw" align="center"><b>Document Your Datacenter With PowerShell</b></h2>
 
 As Built Report is an open source configuration document framework which utilises Microsoft PowerShell to produce as-built documentation in multiple document formats for multiple vendors and technologies. The framework allows users to easily generate clear and consistent documentation, for any environment which supports Microsoft PowerShell and/or a RESTful API.
