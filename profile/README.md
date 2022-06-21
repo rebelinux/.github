@@ -44,7 +44,7 @@ As Built Report provides the following features;
 
 <h3 style="font-size:2vw" align="center"><b>Current Reports</b></h3>
 
-|||
+|<div style="width:250px"></div>|<div style="width:250px"></div>|
 |:---:|:---:|
 | <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/VMware_vSphere.png" /></a> | <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/VMware_SRM.png" /></a> |
 | <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Nutanix.png" /></a> | <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/VxRail.jpg" /></a> |
