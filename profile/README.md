@@ -12,7 +12,7 @@
     <a href="http://slack.poshcode.org/" alt="PowerShell Slack"></a>
         <img src="https://img.shields.io/badge/PowerShell-AsBuiltReport-blue.svg?logo=slack" /></a>
     <a href="https://code.vmware.com/join" alt="VMware {code} Slack"></a>
-        <img src="https://img.shields.io/badge/VMware{code}-AsBuiltReport-orange.svg?logo=slack" /></a>
+        <img src="https://img.shields.io/badge/VMware{code}-AsBuiltReport-green.svg?logo=slack" /></a>
 </p>
 <h2 style="font-size:3vw" align="center"><b>Document Your Datacenter With PowerShell</b></h2>
 
