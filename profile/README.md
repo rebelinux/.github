@@ -46,19 +46,19 @@ As Built Report provides the following features;
 
 <table>
     <tr>
-        <td><a><center><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/VMware.png" /></center></a></td>
-        <td><a><center><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Microsoft.png" /></center></a></td>
+        <td align="center" valign="middle"><a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/VMware.png" width="50%" height="50%" /></a></td>
+        <td align="center" valign="middle"><a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Microsoft.png" /></a></td>
     </tr>
     <tr>
-        <td><a><center><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Dell_EMC.png" /></center></a></td>
-        <td><a><center><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/NetApp.png" /></center></a></td>
+        <td align="center" valign="middle"><a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Dell_EMC.png" width="75%" height="75%" /></a></td>
+        <td align="center" valign="middle"><a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/NetApp.png" /></a></td>
     </tr>
     <tr>
-        <td><a><center><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Nutanix.png" /></center></a></td>
-        <td><a><center><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/PureStorage.jpg" /></center></a></td>
+        <td align="center" valign="middle"><a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Nutanix.png" /></a></td>
+        <td align="center" valign="middle"><a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/PureStorage.jpg" /></a></td>
     </tr>
     <tr>
-        <td><a><center><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Veeam.png" width="30%" height="30%" /></center></a></td>
-        <td><a><center><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Rubrik.png" width="150%" height="150%" /></center></a></td>
+        <td align="center" valign="middle"><a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Veeam.png" width="50%" height="50%" /></a></td>
+        <td align="center" valign="middle"><a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Rubrik.png" /></a></td>
     </tr>
 </table>
