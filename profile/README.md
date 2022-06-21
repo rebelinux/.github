@@ -42,11 +42,23 @@ As Built Report provides the following features;
 | The report module is specific to each vendor and/or technology and is used to extract information from the specific environment. The report module will be written to utilise PowerShell modules or RESTful APIs which the vendor/technology provides. | The styles script sets the default layout, fonts, colours and sizes used within the report. Style scripts can be used to layout cover pages, table of contents and other unique tables or sections. |
 
 
-<h3 style="font-size:2vw" align="center"><b>Current Reports</b></h3>
+<h3 style="font-size:2vw" align="center"><b>Published As Built Reports</b></h3>
 
-|<div style="width:250px"></div>|<div style="width:250px"></div>|
-|:---:|:---:|
-| <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/VMware_vSphere.png" /></a> | <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/VMware_SRM.png" /></a> |
-| <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Nutanix.png" /></a> | <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/VxRail.jpg" /></a> |
-| <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Veeam.png" width="40%" height="40%" /></a> | <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Rubrik.png" width="150%" height="150%" /></a> |
-| <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Microsoft.png" width="50%" height="50%" /></a> | <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/PureStorage.jpg" /></a> |
+<table>
+    <tr>
+        <td><a><center><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/VMware.png" /></center></a></td>
+        <td><a><center><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Microsoft.png" /></center></a></td>
+    </tr>
+    <tr>
+        <td><a><center><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Dell_EMC.png" /></center></a></td>
+        <td><a><center><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/NetApp.png" /></center></a></td>
+    </tr>
+    <tr>
+        <td><a><center><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Nutanix.png" /></center></a></td>
+        <td><a><center><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/PureStorage.jpg" /></center></a></td>
+    </tr>
+    <tr>
+        <td><a><center><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Veeam.png" width="30%" height="30%" /></center></a></td>
+        <td><a><center><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Rubrik.png" width="150%" height="150%" /></center></a></td>
+    </tr>
+</table>
