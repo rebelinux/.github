@@ -9,8 +9,10 @@
             <img src="https://img.shields.io/twitter/follow/AsBuiltReport.svg?style=social"/></a>
 </p>
 <p align="center">
-    <a href="http://slack.poshcode.org/"><img src=https://img.shields.io/badge/PowerShell-AsBuiltReport-blue.svg?logo=slack" alt="PowerShell Slack"/></a>
-    <a href="https://code.vmware.com/join"><img src=https://img.shields.io/badge/VMware{code}-AsBuiltReport-orange.svg?logo=slack" alt="VMware {code} Slack"/></a>
+    <a href="http://slack.poshcode.org/">
+        <img src=https://img.shields.io/badge/PowerShell-AsBuiltReport-blue.svg?logo=slack" alt="PowerShell Slack"/></a>
+    <a href="https://code.vmware.com/join">
+        <img src=https://img.shields.io/badge/VMware{code}-AsBuiltReport-orange.svg?logo=slack" alt="VMware {code} Slack"/></a>
 </p>
 <h2 style="font-size:3vw" align="center"><b>Document Your Datacenter With PowerShell</b></h2>
 
