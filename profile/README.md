@@ -48,5 +48,5 @@ As Built Report provides the following features;
 |:---:|:---:|
 | <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/VMware_vSphere.png" /></a> | <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/VMware_SRM.png" /></a> |
 | <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Nutanix.png" /></a> | <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/VxRail.jpg" /></a> |
-| <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Veeam.png" width="50%" height="50%" /></a> | <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Rubrik.png" /></a> |
-| <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Microsoft.png" /></a> | <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/PureStorage.jpg" /></a> |
+| <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Veeam.png" width="40%" height="40%" /></a> | <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Rubrik.png" width="150%" height="150%" /></a> |
+| <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/Microsoft.png" width="50%" height="50%" /></a> | <a><img src="https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/PureStorage.jpg" /></a> |
