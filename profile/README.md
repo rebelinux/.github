@@ -5,15 +5,15 @@
 
 <h1 style="font-size:5vw" align="center"><b>As Built Report</b></h1>
 <p align="center">
-    <a href="https://twitter.com/AsBuiltReport" alt="Twitter"><img src="https://img.shields.io/twitter/follow/AsBuiltReport.svg?style=social"/></a>
+    <a href="https://twitter.com/AsBuiltReport" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/twitter/follow/AsBuiltReport.svg?style=social" alt="Twitter" /></a>
 </p>
 
 <p align="center">
-    <a href="https://code.vmware.com/join" target='_blank'><img src="https://img.shields.io/badge/VMware{code}-AsBuiltReport-green.svg?logo=slack" alt="VMware {code} Slack" /></a>
+    <a href="https://code.vmware.com/join" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/VMware{code}-AsBuiltReport-green.svg?logo=slack" alt="VMware {code} Slack" /></a>
 </p>
 
 <p align="center">
-    <a href='https://ko-fi.com/B0B7DDGZ7' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/kofi_button_blue.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+    <a href='https://ko-fi.com/B0B7DDGZ7' target="_blank" rel="noopener noreferrer"><img height='36' style='border:0px;height:36px;' src='https://raw.githubusercontent.com/AsBuiltReport/.github/main/profile/images/kofi_button_blue.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
 
 <h2 style="font-size:3vw" align="center"><b>Document Your Datacenter With PowerShell</b></h2>
