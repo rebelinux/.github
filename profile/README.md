@@ -5,11 +5,10 @@
 
 <h1 style="font-size:5vw" align="center"><b>As Built Report</b></h1>
 <p align="center">
-    <a href="https://twitter.com/AsBuiltReport" alt="Twitter">
-            <img src="https://img.shields.io/twitter/follow/AsBuiltReport.svg?style=social"/></a>
+    <a href="https://twitter.com/AsBuiltReport" alt="Twitter"><img src="https://img.shields.io/twitter/follow/AsBuiltReport.svg?style=social"/></a>
 </p>
+
 <p align="center">
-    <a href="http://slack.poshcode.org/" target='_blank'><img src="https://img.shields.io/badge/PowerShell-AsBuiltReport-blue.svg?logo=slack" alt="PowerShell Slack" /></a>
     <a href="https://code.vmware.com/join" target='_blank'><img src="https://img.shields.io/badge/VMware{code}-AsBuiltReport-green.svg?logo=slack" alt="VMware {code} Slack" /></a>
 </p>
 
